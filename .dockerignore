@@ -1,7 +1,8 @@
-target/
-.git/
+.git
 .gitignore
 .env
-.idea/
-*.iml
-uploads/
+target
+.settings
+.classpath
+.project
+.factorypath
